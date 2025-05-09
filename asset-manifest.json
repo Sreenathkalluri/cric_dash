@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/cric_dash/static/css/main.f255aad7.css",
+    "main.js": "/cric_dash/static/js/main.f8d5ba44.js",
+    "static/js/488.f886ef25.chunk.js": "/cric_dash/static/js/488.f886ef25.chunk.js",
+    "static/media/CSK.png": "/cric_dash/static/media/CSK.316f897802b00fbc034c.png",
+    "static/media/DC.png": "/cric_dash/static/media/DC.2505ee6d486b32c7815f.png",
+    "static/media/RR.png": "/cric_dash/static/media/RR.4b8b09b0c61bc3aa8118.png",
+    "static/media/SRH.jpg": "/cric_dash/static/media/SRH.97e47ab0f8090fdbd108.jpg",
+    "static/media/KKR.png": "/cric_dash/static/media/KKR.4b5dc2051b3fe7be90d8.png",
+    "static/media/RCB.png": "/cric_dash/static/media/RCB.e03d3ee21e5635e95ea8.png",
+    "static/media/MI.png": "/cric_dash/static/media/MI.d52347cb0f4a214c410b.png",
+    "static/media/ball-icon.png": "/cric_dash/static/media/ball-icon.2e282731c8be59155b39.png",
+    "static/media/bat-icon.png": "/cric_dash/static/media/bat-icon.f53626bb66d7545eb806.png",
+    "index.html": "/cric_dash/index.html",
+    "main.f255aad7.css.map": "/cric_dash/static/css/main.f255aad7.css.map",
+    "main.f8d5ba44.js.map": "/cric_dash/static/js/main.f8d5ba44.js.map",
+    "488.f886ef25.chunk.js.map": "/cric_dash/static/js/488.f886ef25.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f255aad7.css",
+    "static/js/main.f8d5ba44.js"
+  ]
+}
